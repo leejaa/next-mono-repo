@@ -50,3 +50,5 @@ export const Button: React.FC<ButtonProps> = ({
     </>
   );
 };
+
+export const ButtonName = "버튼이름";
